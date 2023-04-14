@@ -1,4 +1,4 @@
-module surly-shared
+module github.com/edervzz/surly-shared
 
 go 1.19
 
